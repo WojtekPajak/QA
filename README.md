@@ -7,6 +7,6 @@ This led me to opinion that defect-free software is very important nowadays, esp
 This repository is created to document all my experience in software testing/QA throught reports/QA documents. 
 
 Repository contains files:<br>
-• <b>Test reports - app testing</b> - file contains reports created during testing desktop apps,
+• <b>Test reports - app testing</b> - file contains reports created during testing desktop apps,<br>
 • <b>Test reports - web testing</b> - file contains reports created during testing webpages/web apps.
 
