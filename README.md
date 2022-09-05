@@ -9,4 +9,8 @@ This repository is created to document all my experience in software testing/QA 
 Repository contains files:<br>
 • <b>Test reports - app testing</b> - file contains reports created during testing desktop apps,<br>
 • <b>Test reports - web testing</b> - file contains reports created during testing webpages/web apps.
+<br>
 
+QA projects:
+• <b> Webpage testing - skleptest.pl </b><br>
+<b>Pre-testing:</b> 9 testing scenarios | <b>Defects reported:</b> 32 
